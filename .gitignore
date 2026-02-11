@@ -1,0 +1,27 @@
+# Environment variables
+.env
+
+# IDE config
+*.idea/
+*.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/**
+*.log
+
+# Dependencies
+node_modules/
+bower_components/
+
+# Uploads
+uploads/**
+
+# Database
+database/*.sql
+
+# Cache
+.cache/
